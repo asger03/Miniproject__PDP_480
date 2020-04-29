@@ -1,4 +1,4 @@
-# Miniproject_PDP_480
+# Miniproject, PDP - 480
  Miniproject from group 480, PDP, 30/04/20
 
 LINK FOR PRESENTATION: https://www.youtube.com/watch?v=2Y-nDnwPWH4&

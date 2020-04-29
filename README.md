@@ -16,3 +16,7 @@ Lea Søndertoft
 Maja Østergaard
 
 Shirley Damborg
+
+The file "memorygame.rar" contains the arduino program, used in the system.
+
+The file "fremlæggelse.pdf" contains the presentation slides, seen in the video.
